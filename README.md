@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Arnav Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=styarnav-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="styarnav-sharma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nxtArnav-Sharma&label=Profile%20views&color=0e75b6&style=flat" alt="styarnav-sharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=styarnav-sharma&theme=theme=dark_lover" alt="styarnav-sharma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=styarnav-sharma&theme=theme=dark_lover" alt="nxtArnav-Sharma" /></a> </p>
 
 - I’m currently working on react app devlopment 
 
 - I’m looking to collaborate on **Java Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/styArnav-Sharma](https://github.com/styArnav-Sharma)
+- 👨‍💻 All of my projects are available at [https://github.com/nxtArnav-Sharma](https://github.com/nxtArnav-Sharma)
 
 - 📫 How to reach me : Email:- **sharma.arnavsh6@gmail.com**
 
@@ -37,7 +37,7 @@
 <h4 align="left"> Biggner's Skillset</h4>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=styarnav-sharma&count_private=true&show_icons=true&theme=radical" /> </p>
- <p> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=styarnav-sharma&theme=radical" /></p>
- <p> <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=styarnav-sharma&layout=compact&langs_count=10&show_icons=true&theme=radical&time=123" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nxtArnav-Sharma&count_private=true&show_icons=true&theme=radical" /> </p>
+ <p> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nxtArnav-Sharma&theme=radical" /></p>
+ <p> <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxtArnav-Sharma&layout=compact&langs_count=10&show_icons=true&theme=radical&time=123" /> </p>
 
