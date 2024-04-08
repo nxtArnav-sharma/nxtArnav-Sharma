@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxtArnav-Sharma&label=Profile%20views&color=0e75b6&style=flat" alt="styarnav-sharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=styarnav-sharma&theme=theme=dark_lover" alt="nxtArnav-Sharma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nxtArnav-Sharma&theme=theme=dark_lover" alt="nxtArnav-Sharma" /></a> </p>
 
 - I’m currently working on react app devlopment 
 
