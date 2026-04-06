@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Arnav Sharma</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Artificial Intelligence developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxtArnav-Sharma&label=Profile%20views&color=0e75b6&style=flat" alt="styarnav-sharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nxtArnav-Sharma&theme=theme=dark_lover" alt="nxtArnav-Sharma" /></a> </p>
 
-- I’m currently working on react app devlopment 
+- I’m currently working on Machine Learning devlopment 
 
-- I’m looking to collaborate on **Java Projects**
+- I’m looking to collaborate on **AI/ML Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nxtArnav-Sharma](https://github.com/nxtArnav-Sharma)
+- 👨‍💻 All of my projects are available at [MY GITHUB](https://github.com/nxtArnav-Sharma)
 
 - 📫 How to reach me : Email:- **sharma.arnavsh6@gmail.com**
 
-- ⚡ Fun fact **I am complaining about the stuff i do wrong**
+- ⚡ Fun fact **I am learning constantly from the stuff i do wrong**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
