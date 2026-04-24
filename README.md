@@ -6,7 +6,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=nxtArnav-Sharma&theme=dark_lover" alt="nxtArnav-Sharma" width="600" />
+    <img src="https://trophy.ryglcloud.net/?username=nxtArnav-Sharma&theme=dark_lover" alt="nxtArnav-Sharma" width="500" />
   </a> 
 </p>
 
