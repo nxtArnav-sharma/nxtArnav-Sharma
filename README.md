@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arnav Sharma</h1>
 <h3 align="center">A passionate Artificial Intelligence developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxtArnav-Sharma&label=Profile%20views&color=0e75b6&style=flat" alt="styarnav-sharma" /> </p>
 
 <p align="left"> 
